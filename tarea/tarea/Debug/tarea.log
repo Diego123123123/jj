@@ -1,0 +1,3 @@
+﻿  SparkLine.cpp
+c:\users\diego\source\repos\tarea\tarea\sparkline.cpp(53): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  tarea.vcxproj -> C:\Users\Diego\source\repos\tarea\Debug\tarea.exe
